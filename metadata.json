@@ -1,0 +1,6 @@
+{
+  "name": "CaféPilot AI",
+  "description": "Know Your Costs. Master Your Margins. AI-powered café and beverage recipe costing, profit margin analysis, and inventory platform for independent coffee shops and milk tea businesses in the Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
